@@ -3,6 +3,11 @@
 ## Project Overview
 This project analyzes Prime Video movies and TV shows data to understand content distribution, ratings, genres, and growth trends using Power BI.
 
+## Dashboard Overview
+
+![Prime Video Dashboard Overview]("C:\Users\rites\Downloads\Prime-Video-Content-Analytics\screenshots\overview_dashboard.png")
+
+
 ## Tools Used
 - Power BI
 - Power BI Power Query
